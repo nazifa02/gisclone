@@ -1,15 +1,21 @@
 ### Welcome to gisclone!
-A demo repo for Cyclone
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/leafmap/blob/master)
+[![image](https://pypi-camo.freetls.fastly.net/05a971da4c192b16d236a242043a03c93cce32b5/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f67656f636c6f6e652e737667)](https://pypi.org/project/geoclone/)
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Possible Damage based on Cyclone Category 
+![](https://media.istockphoto.com/id/868927780/vector/blue-symbol-sign-of-a-storm-hurricane.jpg?s=612x612&w=0&k=20&c=dmI5XIubuYuruA6qmcQehPio6OWCpYHG5yYy9zc_2-o=)
 
-[![logo](https://info.alcoimpact.com/hs-fs/hubfs/Hurricane%20Safety/Saffir-Simpson%20Hurricane%20Scale.jpg?width=3453&name=Saffir-Simpson%20Hurricane%20Scale.jpg)](https://info.alcoimpact.com/hs-fs/hubfs/Hurricane%20Safety/Saffir-Simpson%20Hurricane%20Scale.jpg?width=3453&name=Saffir-Simpson%20Hurricane%20Scale.jpg)
+**A demo repo for Cyclone.**
 
-## Interesting Hurricane Video on Youtube 
+-   GitHub repo: <https://github.com/nazifa02/geoclone>
+-   PyPI: <https://pypi.org/project/geoclone/>
+-   Free software: [MIT license](https://opensource.org/licenses/MIT)
 
-You can watch the video to see how was the eye of Hurricane Lee [here](https://youtu.be/AwoKkCye1F0) 
+## Usages
 
-[![Lee](https://pbs.twimg.com/media/F5gfcl6XIAAbLiJ?format=jpg&name=large)](https://pbs.twimg.com/media/F5gfcl6XIAAbLiJ?format=jpg&name=large)
+You can use Google Colab to work on cyclone analysis
+
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ## Code
 
@@ -19,11 +25,16 @@ print TCs
 ```
 Hurricane `Lee` was `a category 5 hurricane`.
 
-## Platform
+## Features
+1. cyclone frequency
+2. cyclone mortality
 
-You can use google colab to work on cyclone analysis
+## Know More 
 
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+You can watch this interesting video of the eye of Hurricane Lee [here](https://youtu.be/AwoKkCye1F0) 
+
+[![Lee](https://pbs.twimg.com/media/F5gfcl6XIAAbLiJ?format=jpg&name=large)](https://pbs.twimg.com/media/F5gfcl6XIAAbLiJ?format=jpg&name=large)
+
 
 ## Little bit About me
 
@@ -31,8 +42,3 @@ You can use google colab to work on cyclone analysis
 - [University of Tennessee, Knoxville, TN](https://geography.utk.edu/)
 - [Auburn University, AL](https://www.auburn.edu/cosam/departments/geosciences/)
 - [University of Dhaka, BD](https://du.ac.bd/body/GEN)
-
-
-### Research Interest
-1. Tropical Cyclones
-2. Climate Change
